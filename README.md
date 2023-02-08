@@ -20,8 +20,8 @@ FOSS for Android——saving Freedom and Privacy.
 
 |Alternative Reddit||
 |:---|:---|
-|[Stealth](https://gitlab.com/cosmosapps/stealth)<img width="35" src="https://f-droid.org/repo/com.cosmos.unreddit/en-US/icon_kB92YIhbQLmrriC21wLR8ywwHfEWNh_DpmZImwBuMTE=.png">[[F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)] is an account-free, privacy-oriented, and feature-rich Reddit client.|轻巧易用|
-|[Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) , [[F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)] A Reddit client for Android||
+|[Stealth](https://gitlab.com/cosmosapps/stealth)<img width="35" src="https://f-droid.org/repo/com.cosmos.unreddit/en-US/icon_kB92YIhbQLmrriC21wLR8ywwHfEWNh_DpmZImwBuMTE=.png">[[F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)] an account-free, privacy-oriented, and feature-rich Reddit client.|It provides features from Reddit, without the need for an account. In fact, the app doesn't even let you log in with a Reddit account.|
+|[Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) , [[F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)] A Reddit client for Android|A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience|
 
 |聊天软件||
 |:---|:---|
