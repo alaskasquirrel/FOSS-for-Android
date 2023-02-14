@@ -8,14 +8,14 @@ FOSS for Android——saving Freedom and Privacy.
 
 |Alternative Twitter||
 |:---|:---|
-|[Fritter](https://fritter.cc/)<img width="35" src="https://fritter.cc/static/img/icon.2183148c9f9b.png">[[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)] an open source frontend for Twitter, focusing on giving you the best experience and keeping your data private, local and in your hands.|[隐私政策](https://fritter.cc/privacy/)|
-|[Nitter for Android](https://gitlab.com/Plexer0/Nitter-Android/)<img width="35" src="https://f-droid.org/repo/com.plexer0.nitter/en-US/icon_Kh4S6V1yqClUU5mFhmZ-bOb_yAuYi2V_bGbjMyQEUW8=.png"> [[F-Droid](https://f-droid.org/en/packages/com.plexer0.nitter/)] Android client for the popular Twitter frontend, Nitter.||
-|[Twidere X](https://github.com/TwidereProject/TwidereX-Android)<img width="35" src="https://avatars.githubusercontent.com/u/6133697">[[F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/)] [网站](https://twidere.com/)|Development is focussed on Twitter and that service is the only one officially<br/>supported.|
+|[Fritter](https://fritter.cc/)<img width="35" src="https://fritter.cc/static/img/icon.2183148c9f9b.png">[[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)] an open source frontend for Twitter, focusing on giving you the best experience and keeping your data private, local and in your hands.|不需要帐号登录的客户端，订阅和群组等数据留存本地 [隐私政策](https://fritter.cc/privacy/)|
+|[Nitter for Android](https://gitlab.com/Plexer0/Nitter-Android/)<img width="35" src="https://f-droid.org/repo/com.plexer0.nitter/en-US/icon_Kh4S6V1yqClUU5mFhmZ-bOb_yAuYi2V_bGbjMyQEUW8=.png"> [[F-Droid](https://f-droid.org/en/packages/com.plexer0.nitter/)]|Android client for the popular Twitter frontend, Nitter.|
+|[Twidere X](https://github.com/TwidereProject/TwidereX-Android)<img width="35" src="https://avatars.githubusercontent.com/u/6133697">[[F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/)] [网站](https://twidere.com/)|Development is focussed on Twitter and that service is the only one officially supported.|
 
 |Alternative YouTube||
 |:---|:---|
-|[LibreTube](https://github.com/libre-tube/LibreTube)<img width="35" src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png">[[F-Droid](https://f-droid.org/en/packages/com.github.libretube/)] an Alternative YouTube frontend for Android. The app is using the [Piped API](https://github.com/TeamPiped/Piped), which uses proxies to circumvent Google's data collection and includes some other additional features.||
-|[NewPipe](https://github.com/TeamNewPipe/NewPipe)<img width="35" src="https://newpipe.net/img/logo.svg">[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)] , [官网](https://newpipe.net/). A libre lightweight streaming front-end for Android.|第三方 YouTube 客户端。 无需帐号登录，这也就没有个性化推荐之说。 能显示热榜，能搜索。支持变速播放、后台播放等。支持导入订阅的频道。[隐私政策](https://newpipe.net/legal/privacy/)|
+|[LibreTube](https://github.com/libre-tube/LibreTube)<img width="35" src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png">[[F-Droid](https://f-droid.org/en/packages/com.github.libretube/)] an Alternative YouTube frontend for Android. The app is using the [Piped API](https://github.com/TeamPiped/Piped), which uses proxies to circumvent Google's data collection and includes some other additional features.|一款开源的安卓端YouTube替代软件，最大特点是隐私保护性强，你可选择不同的服务器和创建账户（非Google账户），并且订阅自己喜欢的频道。目前LibreTube还处于测试版，有些功能还在不断完善中。|
+|[NewPipe](https://github.com/TeamNewPipe/NewPipe)<img width="35" src="https://newpipe.net/img/logo.svg">[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)] , [官网](https://newpipe.net/). A libre lightweight streaming front-end for Android.|无登陆功能，不会根据你的观看历史给你推荐视频，相当于隐身模式。支持电视盒子、支持画中画（需要开启允许在其他应用上层显示）、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 Kodi 播放，功能非常完善。[隐私政策](https://newpipe.net/legal/privacy/)|
 |[NewPipe x SponsorBlock x Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe) <img width="35" src="https://apt.izzysoft.de/fdroid/repo/org.polymorphicshade.newpipe/en-US/icon.png">|A fork of [NewPipe](https://github.com/TeamNewPipe/NewPipe) with [SponsorBlock](https://sponsor.ajay.app/) and [Return YouTube Dislike](https://returnyoutubedislike.com/) functionality.|
 
 |Alternative Reddit||
@@ -64,6 +64,7 @@ FOSS for Android——saving Freedom and Privacy.
 
 |输入法||
 |:---|:---|
+|[Fcitx5 Android](https://github.com/fcitx5-android/fcitx5-android)|An attempt to run fcitx5 on Android 开箱即用|
 |[Trime](https://github.com/osfans/trime)[[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]|[配置1](https://github.com/Bambooin/rimerc/blob/master/README_sc.md),[配置2](https://github.com/ssnhd/rime).|
 
 [V2Fun](https://github.com/liaoliao666/v2ex) V2EX 好看的第三方客户端，原生 App，支持夜间模式。
@@ -80,7 +81,7 @@ Nextcloud 云服务
 
 Aegis 双因素验证器
 
-|ROM 刷机需谨慎|[Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)|
+|ROM 刷机需谨慎|[Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Android OS Privacy Under the Loupe -- A Tale from the East](https://arxiv.org/abs/2302.01890)|
 |:---|:---|
 |[LineageOS for microG](https://lineage.microg.org/) <img width="35" src="https://lineage.microg.org/images/screen_logo.jpg">|LineageOS unofficial fork with built-in [microG](https://microg.org/) gapps implementation|
 |[GrapheneOS](https://grapheneos.org/) The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project.|GrapheneOS 是目前兼顧隱私保護與安全性的最佳選項。它基於 AOSP 上游加入了諸多改進，包括加強的應用運行時、應用沙箱、內存分配機制、系統內核、網絡安全、傳感器權限管理、數據加密等等。同樣關鍵的是，GrapheneOS 系統經過二進制文件簽名，因此支持啓動時驗證。這當然意味着用户可以再次上鎖 bootloader，而由於整個啓動流程經過安全性驗證，它能夠達到 Android 設備應有的安全性標準。GrapheneOS 團隊對安全性的要求極高。因此，目前只有 Google Pixel 系列手機受到 GrapheneOS 的支持，且對於 Google 不再維護的 Pixel 手機（如 Pixel 2），GrapheneOS 也不再繼續維護。|
