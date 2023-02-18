@@ -46,6 +46,7 @@ FOSS for Android——saving Freedom and Privacy.
 
 |音乐 Music||
 |:---|:---|
+|[Aplayer](https://github.com/rRemix/APlayer)||
 |[MusicFree](https://github.com/maotoumao/MusicFree) 插件化、定制化、无广告的免费音乐播放器 [官网](http://musicfree.upup.fun/)||
 
 |摄像||
@@ -67,9 +68,15 @@ FOSS for Android——saving Freedom and Privacy.
 |[Fcitx5 Android](https://github.com/fcitx5-android/fcitx5-android)|An attempt to run fcitx5 on Android 开箱即用|
 |[Trime](https://github.com/osfans/trime)[[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]|[配置1](https://github.com/Bambooin/rimerc/blob/master/README_sc.md),[配置2](https://github.com/ssnhd/rime).|
 
-[V2Fun](https://github.com/liaoliao666/v2ex) V2EX 好看的第三方客户端，原生 App，支持夜间模式。
+|Hacker News||
+|:---|:---|
+|[Glider fro Hacker News](https://github.com/Mosc/Glider)<img width="35" src="https://f-droid.org/repo/nl.viter.glider/en-US/icon_nG0MJcWM1JAE7F925ZTTVED-f43J0HdFPKmXv7UhUpI=.png">[[F-Droid](https://f-droid.org/en/packages/nl.viter.glider/)]|Ad-free, open-source, no-nonsense. 精巧易用|
+|[Hacki for Hacker News](https://github.com/Livinglist/Hacki) <img width="35" src="https://f-droid.org/repo/com.jiaqifeng.hacki/en-US/icon_oKe29v-w4SyV0R6VPvrIbMc7K27-AClMQ4c8G4A8t3s=.png">[[F-Droid](https://f-droid.org/en/packages/com.jiaqifeng.hacki/)]||
 
-[Glider fro Hacker News](https://github.com/Mosc/Glider)<img width="35" src="https://f-droid.org/repo/nl.viter.glider/en-US/icon_nG0MJcWM1JAE7F925ZTTVED-f43J0HdFPKmXv7UhUpI=.png">[[F-Droid](https://f-droid.org/en/packages/nl.viter.glider/)] Ad-free, open-source, no-nonsense. 精巧易用
+|V2EX||
+|:---|:---|
+|[V2Fun](https://github.com/liaoliao666/v2ex)|V2EX 好看的第三方客户端，原生 App，支持夜间模式。|
+|[V2Compose](https://github.com/cooaer/V2Compose)|使用 Compose 构建的一个 V2ex 的 Android 客户端！|
 
 [Seal](https://github.com/JunkFood02/Seal)<img width="35" src="https://f-droid.org/repo/com.junkfood.seal/en-US/icon_j8mCLA_OX-sJn7TRAdvoaUMW1f6djRv6RMzAnNdaG4I=.png">[[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)] 视频下载 Video/Audio downloader for Android, designed and themed with Material You. 
 
