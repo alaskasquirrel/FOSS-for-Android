@@ -28,6 +28,8 @@ FOSS for Android——saving Freedom and Privacy.
 |[Session](https://github.com/oxen-io/session-android)<img width="35" src="https://camo.githubusercontent.com/d75901fc0bc617eeaa82f7c3ef3344f2ab3e961181accca1df4cc8700faf5883/68747470733a2f2f692e696d6775722e636f6d2f644f39663748672e6a7067">[官网](https://getsession.org/)|[F-Droid repository](https://fdroid.getsession.org/)|
 |[Signal](https://github.com/signalapp/Signal-Android) A private messenger for Android [官网](https://signal.org/)||
 |[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)<img width="35" src="https://f-droid.org/repo/org.telegram.messenger/en-US/icon_yf3k2arrpvOWv5oUZ3p1Eri1ThBaYEhH0lEWqjiyFO4=.png">[[F-Droid](https://f-droid.org/en/packages/org.telegram.messenger/)] [网站](https://telegram.org/)|最常用的开源（只有前端开源）聊天（即时通信）软件。  该F-Droid版本去除原版所包含的谷歌服务在内的一些闭源成分。|
+|[SimpleX Chat](https://github.com/simplex-chat/) Private & encrypted - the only platform without user identifiers||
+|[Briar](https://briarproject.org/) Secure messaging, anywhere||
 
 |播客 Podcast||
 |:---|:---|
