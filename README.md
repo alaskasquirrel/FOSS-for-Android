@@ -5,6 +5,8 @@ FOSS for Android——saving Freedom and Privacy.
 |[F-Droid](https://gitlab.com/fdroid/fdroidclient)<img width="35" src="https://f-droid.org/repo/org.fdroid.fdroid/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png">[[F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid)]|[详解](https://sspai.com/post/77601) 最出名的开源安卓软件平台，客户端可下载安装其收录的软件。 [可添加第三方存储库List of repositories](https://gitlab.com/fdroid/wiki/-/wikis/List-of-F-Droid-repositories)。[F-Droid的安全问题](https://privsec.dev/posts/android/f-droid-security-issues/)|
 |[Neo Store](https://github.com/NeoApplications/Neo-Store)<img width="35" src="https://f-droid.org/repo/com.machiav3lli.fdroid/en-US/icon_3Z3xAiy1YgGMVf9AveNisZ1l1FiOLexcxkYtN7utlcQ=.png">[[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.fdroid)] an F-Droid client with modern UI and an arsenal of extra features.|[Neo Store](https://sspai.com/link?target=https%3A%2F%2Ff-droid.org%2Fzh_Hans%2Fpackages%2Fcom.machiav3lli.fdroid%2F) 是另一个修改自 Foxy Droid 的第三方客户端，由 [NeoApplications](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FNeoApplications) 开发，界面设计更为美观。此外 NeoApplications 还开发了 [Neo Backup](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FNeoApplications%2FNeo-Backup)、[Neo Launcher](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FNeoApplications%2FNeo-Launcher) 和 [Neo Feed](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FNeoApplications%2FNeo-Feed) 等其他应用，感兴趣的话可以下载尝试。|
 |[Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)<img width="35" src="https://auroraoss.com/img/auroralogo.webp">[[F-Droid](https://f-droid.org/en/packages/com.aurora.store)]|谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。|
+|[Accrescent](https://accrescent.app/)|A novel Android app store focused on security, privacy, and usability. Open-source forever.|
+|[GrapheneOS Apps](https://github.com/GrapheneOS/Apps)||
 
 |Alternative Twitter||
 |:---|:---|
@@ -17,6 +19,7 @@ FOSS for Android——saving Freedom and Privacy.
 |[LibreTube](https://github.com/libre-tube/LibreTube)<img width="35" src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png">[[F-Droid](https://f-droid.org/en/packages/com.github.libretube/)] an Alternative YouTube frontend for Android. The app is using the [Piped API](https://github.com/TeamPiped/Piped), which uses proxies to circumvent Google's data collection and includes some other additional features.|一款开源的安卓端YouTube替代软件，最大特点是隐私保护性强，你可选择不同的服务器和创建账户（非Google账户），并且订阅自己喜欢的频道。目前LibreTube还处于测试版，有些功能还在不断完善中。|
 |[NewPipe](https://github.com/TeamNewPipe/NewPipe)<img width="35" src="https://newpipe.net/img/logo.svg">[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)] , [官网](https://newpipe.net/). A libre lightweight streaming front-end for Android.|无登陆功能，不会根据你的观看历史给你推荐视频，相当于隐身模式。支持电视盒子、支持画中画（需要开启允许在其他应用上层显示）、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 Kodi 播放，功能非常完善。[隐私政策](https://newpipe.net/legal/privacy/)|
 |[NewPipe x SponsorBlock x Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe) <img width="35" src="https://apt.izzysoft.de/fdroid/repo/org.polymorphicshade.newpipe/en-US/icon.png">|A fork of [NewPipe](https://github.com/TeamNewPipe/NewPipe) with [SponsorBlock](https://sponsor.ajay.app/) and [Return YouTube Dislike](https://returnyoutubedislike.com/) functionality.|
+|[VueTube](https://github.com/VueTubeApp/VueTube)|A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)|
 
 |Alternative Reddit||
 |:---|:---|
@@ -38,6 +41,7 @@ FOSS for Android——saving Freedom and Privacy.
 |RSS||
 |:---|:---|
 |[Feeder](https://gitlab.com/spacecowboy/Feeder/)<img width="35" src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png">[[F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)]||
+|[Read You]()||
 
 |邮箱||
 |:---|:---|
@@ -89,6 +93,10 @@ Syncthing 同步
 Nextcloud 云服务
 
 Aegis 双因素验证器
+
+LibChecker
+
+[Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) Hide your private Files and APPs with a single click.
 
 |ROM 刷机需谨慎|[Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Android OS Privacy Under the Loupe -- A Tale from the East](https://arxiv.org/abs/2302.01890)|
 |:---|:---|
