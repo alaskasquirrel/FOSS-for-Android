@@ -33,6 +33,7 @@ FOSS for Android——saving Freedom and Privacy.
 |[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)<img width="35" src="https://f-droid.org/repo/org.telegram.messenger/en-US/icon_yf3k2arrpvOWv5oUZ3p1Eri1ThBaYEhH0lEWqjiyFO4=.png">[[F-Droid](https://f-droid.org/en/packages/org.telegram.messenger/)] [网站](https://telegram.org/)|最常用的开源（只有前端开源）聊天（即时通信）软件。  该F-Droid版本去除原版所包含的谷歌服务在内的一些闭源成分。|
 |[SimpleX Chat](https://github.com/simplex-chat/) Private & encrypted - the only platform without user identifiers||
 |[Briar](https://briarproject.org/) Secure messaging, anywhere||
+|[Nostros](https://github.com/KoalaSat/nostros)|Nostr client on Android|
 
 |播客 Podcast||
 |:---|:---|
@@ -40,8 +41,8 @@ FOSS for Android——saving Freedom and Privacy.
 
 |RSS||
 |:---|:---|
-|[Feeder](https://gitlab.com/spacecowboy/Feeder/)<img width="35" src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png">[[F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)]||
-|[Read You]()||
+|[Feeder](https://gitlab.com/spacecowboy/Feeder/)<img width="35" src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png">[[F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)]|Android RSS reader app|
+|[Read You](https://github.com/Ashinch/ReadYou)|Read moreAn Android RSS reader presented in Material You style.|
 
 |邮箱||
 |:---|:---|
@@ -53,11 +54,11 @@ FOSS for Android——saving Freedom and Privacy.
 |音乐 Music||
 |:---|:---|
 |[Aplayer](https://github.com/rRemix/APlayer)||
-|[MusicFree](https://github.com/maotoumao/MusicFree) 插件化、定制化、无广告的免费音乐播放器 [官网](http://musicfree.upup.fun/)||
+|[MusicFree](https://github.com/maotoumao/MusicFree), [官网](http://musicfree.upup.fun/)|插件化、定制化、无广告的免费音乐播放器|
 
 |摄像||
 |:---|:---|
-|[Graphene Camera](https://github.com/GrapheneOS/Camera/)  focused on privacy and security with QR & barcode scanning.||
+|[Graphene Camera](https://github.com/GrapheneOS/Camera/)|focused on privacy and security with QR & barcode scanning.|
 
 | 浏览器 Browser                      |      |
 |:---|:---|
