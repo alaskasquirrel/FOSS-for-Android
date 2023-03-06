@@ -50,6 +50,7 @@ FOSS for Android——saving Freedom and Privacy.
 |[K-9 Mail](https://k9mail.app/)<img width="35" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">[[F-Droid](https://f-droid.org/en/packages/com.fsck.k9/)] is an open source email client focused on making it easy to chew through large volumes of email.||
 |[ProtonMail](https://github.com/ProtonMail/proton-mail-android)<img width="35" src="https://avatars.githubusercontent.com/u/6953970"> Secure email. ⚠︎[记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/) 💀 [法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)||
 |[Tutanota](https://github.com/tutao/tutanota)<img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png">[[F-Droid](https://f-droid.org/en/packages/de.tutao.tutanota/)] Encrypted email & calendar service - easy to use, secure by design. ⚠︎[法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)||
+|[Skiff Mail](https://skiff.com/)|Private, encrypted, and Web3 email|
 
 |音乐 Music||
 |:---|:---|
