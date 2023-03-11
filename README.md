@@ -64,6 +64,7 @@ FOSS for Android——saving Freedom and Privacy.
 |:---|:---|
 |[Aplayer](https://github.com/rRemix/APlayer)||
 |[MusicFree](https://github.com/maotoumao/MusicFree), [官网](http://musicfree.upup.fun/)|插件化、定制化、无广告的免费音乐播放器|
+|[洛雪音乐助手](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|
 
 |摄像||
 |:---|:---|
